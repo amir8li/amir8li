@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amir8li
-- 👀 I’m interested in web desgining 
+- 👀 I’m interested in web desgining, also algorithms and python language 
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me amiralirahnamania@yahoo.com or amir8lirahnama021@gmail.com
 
