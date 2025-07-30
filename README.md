@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amir8li
-- 👀 I’m interested in web desgining, also algorithms and python language 
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in web development, also algorithms and familiar with C#, C++ and Python languages 
+- 🌱 I’m currently learning backend
 - 📫 How to reach me amiralirahnamania@yahoo.com or amir8lirahnama021@gmail.com
 
 <!---
