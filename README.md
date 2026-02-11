@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @amir8li
-- 👀 I’m interested in web development, also algorithms and familiar with C#, C++ and Python languages 
-- 🌱 I’m currently learning backend
-- 📫 How to reach me amiralirahnamania@yahoo.com or amir8lirahnama021@gmail.com
+## 👋 Hi, I'm AmirAli
+
+**💻 Aspiring Developer** | **🤖 Learning AI/ML** | **🌐 Exploring Web Tech**
+
+### 🔧 Technical Skills
+- **Languages**: Familiar with Python, C#, C++ basics
+- **Web Development**: Learning backend fundamentals  
+- **Currently Focused**: AI/Machine Learning (NLP)
+- **Tools**: Git, VS Code
+
+### 🎯 Current Learning
+- Studying **Machine Learning algorithms** 
+- wanna work on **AI/ML projects** with Python 
+- Exploring **web development** alongside AI
+
+### 📫 Connect With Me
+- **Email**: amiralirahnamania@yahoo.com
+- **Alt Email**: amir8lirahnama021@gmail.com
+- **Looking For**: Learning resources & beginner-friendly AI projects
 
 <!---
 amir8li/amir8li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
