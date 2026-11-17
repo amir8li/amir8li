@@ -1,24 +1,43 @@
-## 👋 Hi, I'm AmirAli
+<h1 align="center">Hi, I'm Amirali! 👋</h1>
+<h3 align="center">Computer Science Student at University of Tehran | Software Developer & AI/Automation Enthusiast</h3>
 
-**💻 Aspiring Developer** | **🤖 Learning AI/ML** | **🌐 Exploring Web Tech**
+<p align="center">
+  <a href="https://linkedin.com/in/amiralirahnamania"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:amiralirahnamania@yahoo.com"><img src="https://img.shields.io/badge/Email-Yahoo-purple?style=flat-square&logo=yahoo" alt="Email"></a>
+  <a href="mailto:amir8lirahnama021@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail" alt="Gmail"></a>
+</p>
 
-### 🔧 Technical Skills
-- **Languages**: Familiar with Python, C#, C++ basics
-- **Web Development**: Learning backend fundamentals  
-- **Currently Focused**: AI/Machine Learning (NLP)
-- **Tools**: Git, VS Code
+---
 
-### 🎯 Current Learning
-- Studying **Machine Learning algorithms** 
-- wanna work on **AI/ML projects** with Python 
-- Exploring **web development** alongside AI
+### 🚀 About Me
+* 🎓 Studying **Computer Science** at the **University of Tehran**.
+* 💼 Working as an **AI & Automation Intern** (focused on AI, automation, Telegram bot development, and software testing processes).
+* 💡 Passionate about deepening my knowledge in Artificial Intelligence, Machine Learning, and software system architectures.
 
-### 📫 Connect With Me
-- **Email**: amiralirahnamania@yahoo.com
-- **Alt Email**: amir8lirahnama021@gmail.com
-- **Looking For**: Learning resources & beginner-friendly AI projects
+---
 
-<!---
-amir8li/amir8li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Skills & Tools
+
+* **Programming Languages:** `C`, `C++`, `C#`, `Python`, `Go`
+* **Artificial Intelligence & Machine Learning:** Specialized courses and theoretical/practical foundations in ML & AI
+* **Automation & Tools:** `n8n`, Telegram Bot development, workflow automation
+* **Web Development & Backend:** Web design and development, fundamental backend and server concepts
+* **DevOps & Systems:** Foundational familiarity with infrastructure, servers, and deployment tools
+* **Engineering Tools:** `Git`, `Linux`, Unix-based environments
+
+---
+
+### 🌱 What I'm Currently Working On
+* Developing specialized skills in Artificial Intelligence and Machine Learning.
+* Building advanced automation workflows and pipelines using **n8n**.
+* Gaining hands-on industry experience as an intern, expanding backend projects and custom bots.
+
+---
+
+### 📫 Get in Touch
+* 📧 Primary Email: [amiralirahnamania@yahoo.com](mailto:amiralirahnamania@yahoo.com)
+* 📧 Secondary Email: [amir8lirahnama021@gmail.com](mailto:amir8lirahnama021@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/amirali-rahnamania](https://www.linkedin.com/in/amirali-rahnamania/)
+
+<br/>
+<p align="center"><i>⚡ "Always learning, building, and automating."</i></p>
